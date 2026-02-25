@@ -13,6 +13,3 @@ This project predicts terrain risk level using Machine Learning based on environ
 - dataset.csv
 - terrain_prediction.py
 - terrain_risk_model.pkl
-
-## Author
-Aastha Shukla
